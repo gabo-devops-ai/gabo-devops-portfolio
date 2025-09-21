@@ -4,7 +4,7 @@ metadata:
   name: grafana
   namespace: observability
 spec:
-  replicas: 1
+  replicas: 1  # demo; in prod I'd enable persistence and admin secret via K8s Secret
   selector:
     matchLabels:
       app: grafana

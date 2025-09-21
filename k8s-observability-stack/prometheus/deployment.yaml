@@ -4,7 +4,7 @@ metadata:
   name: prometheus
   namespace: observability
 spec:
-  replicas: 1
+  replicas: 1  # demo only; in prod I'd run HA with persistent storage
   selector:
     matchLabels:
       app: prometheus
@@ -25,4 +25,4 @@ spec:
               mountPath: /prometheus
       volumes:
         - name: data
-          emptyDir: {}
+          emptyDir: {}  # quick lab storage; for prod use a PVC with retention
