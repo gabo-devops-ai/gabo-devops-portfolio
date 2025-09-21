@@ -12,18 +12,26 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Install deps
+
+      - name: Install deps (quick and explicit)
         run: |
-          pip install --upgrade pip
+          python -m pip install --upgrade pip
           pip install -r ci-cd-pipeline-demo/app/requirements.txt
+
+      - name: Unit tests (keep at least one, even in demos)
+        run: pytest -q ci-cd-pipeline-demo/app
+
       - name: Build image
         run: docker build -t gabo-ci-demo:latest ci-cd-pipeline-demo
-      - name: Run container
+
+      - name: Run container (smoke check)
         run: |
           docker run -d -p 8080:8080 --name demo gabo-ci-demo:latest
+          # Tiny pause to let Flask start; in real pipelines I'd probe readiness with retries/backoff.
           sleep 5
           curl -sSf http://localhost:8080/ | grep "Gabo's CI/CD demo"
