@@ -12,12 +12,20 @@ provider "aws" {
   region = var.region
 }
 
-# Simple S3 bucket (demo)
+# Simple S3 bucket for demo purposes.
+# In real projects I've used a similar bucket for:
+# - App logs (CloudWatch integration)
+# - CI/CD build artifacts
+# - Quick backups or CSV exports for analysts
+#
+# ⚠️ force_destroy is convenient for demos/labs.
+#    In production I disable it to avoid accidental data loss.
 resource "aws_s3_bucket" "artifacts" {
-  bucket = var.bucket_name
+  bucket        = var.bucket_name
   force_destroy = true
 }
 
 output "bucket_name" {
-  value = aws_s3_bucket.artifacts.bucket
+  description = "Name of the created S3 bucket (useful to copy/paste elsewhere)."
+  value       = aws_s3_bucket.artifacts.bucket
 }
