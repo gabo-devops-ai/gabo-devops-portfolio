@@ -1,10 +1,27 @@
-# DevOps & SRE Portfolio – Gabriel Gonzalez Montero
+# 🚀 DevOps & SRE Portfolio – Gabriel Gonzalez Montero
 
 [![CI](https://github.com/gabo-devops-ai/gabo-devops-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/gabo-devops-ai/gabo-devops-portfolio/actions)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-This repository collects examples of how I approach multi-cloud DevOps, SRE practices, and AI-driven automation.  
-Each folder is based on real scenarios I’ve worked on or prepared for, simplified for demo purposes but documented the way I would explain them to a teammate.
+---
+
+## 🌟 Additional Badges
+
+![Last Commit](https://img.shields.io/github/last-commit/gabo-devops-ai/gabo-devops-portfolio)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![Open Issues](https://img.shields.io/github/issues/gabo-devops-ai/gabo-devops-portfolio)
+
+---
+
+## 🎯 Purpose of Portfolio
+
+This portfolio demonstrates **real-world DevOps & SRE skills** across multi-cloud environments:  
+- Infrastructure as Code (IaC) with Terraform, Ansible, and Pulumi.  
+- CI/CD pipelines using GitHub Actions and GitLab CI.  
+- Kubernetes and observability stacks with Prometheus, Grafana, and CloudWatch.  
+- AI-driven automation for log analysis, incident management, and FinOps.  
+
+The goal is to show practical, annotated projects that reflect **how I solve problems in production** rather than just “perfect lab demos.”
 
 ---
 
@@ -23,12 +40,21 @@ Each folder is based on real scenarios I’ve worked on or prepared for, simplif
 
 ---
 
-## 🎯 Why this repo exists
+## 📚 Labs by Level
 
-- To demonstrate experience across AWS, GCP, Azure, and OCI.  
-- To document patterns that I actually use in real projects, with notes on what I’d change in production.  
-- To explore how AI can reduce operational toil: summarizing incidents, generating queries, and helping with cost triage.  
-- To provide practical, annotated code that’s easier to learn from than “perfect” but abstract examples.  
+### 🟢 Foundation
+- [infra-as-code-aws/](infra-as-code-aws/) – Terraform S3 bucket module  
+- [ci-cd-pipeline-demo/](ci-cd-pipeline-demo/) – Python app + GitHub Actions pipeline  
+
+### 🟡 Intermediate
+- [k8s-observability-stack/](k8s-observability-stack/) – Prometheus + Grafana on Kubernetes  
+- [oci-genai-cost-triage/](oci-genai-cost-triage/) – OCI cost triage with GenAI  
+
+### 🔴 Advanced
+- [aiops-log-analyzer/](aiops-log-analyzer/) – Log anomaly detection with optional AI  
+- [aws-bedrock-incident-summarizer/](aws-bedrock-incident-summarizer/) – AWS Bedrock incident summarization  
+- [gcp-vertex-release-notes/](gcp-vertex-release-notes/) – GCP Vertex AI release notes generator  
+- [azure-openai-incident-helper/](azure-openai-incident-helper/) – Azure OpenAI KQL + incident helper  
 
 ---
 
@@ -43,19 +69,6 @@ Each folder is based on real scenarios I’ve worked on or prepared for, simplif
 
 ---
 
-## 📖 Labs
-
-- [infra-as-code-aws/](infra-as-code-aws/) – Terraform S3 bucket module  
-- [ci-cd-pipeline-demo/](ci-cd-pipeline-demo/) – Python app + GitHub Actions pipeline  
-- [k8s-observability-stack/](k8s-observability-stack/) – Prometheus + Grafana on Kubernetes  
-- [aiops-log-analyzer/](aiops-log-analyzer/) – Log anomaly detection with optional AI  
-- [aws-bedrock-incident-summarizer/](aws-bedrock-incident-summarizer/) – AWS Bedrock incident summarization  
-- [gcp-vertex-release-notes/](gcp-vertex-release-notes/) – GCP Vertex AI release notes generator  
-- [azure-openai-incident-helper/](azure-openai-incident-helper/) – Azure OpenAI KQL + incident helper  
-- [oci-genai-cost-triage/](oci-genai-cost-triage/) – OCI cost triage with GenAI  
-
----
-
 ## 🚀 Quickstart
 
 Clone the repo and explore the labs:
@@ -67,12 +80,17 @@ cd gabo-devops-portfolio
 
 ---
 
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gabo-devops-ai/gabo-devops-portfolio&type=Date)](https://star-history.com/#gabo-devops-ai/gabo-devops-portfolio&Date)
+
+---
 
 ## 📬 Contact / About Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-gonzalez-montero)  
-- 💻 [GitHub](https://github.com/gabo-devops-ai)  
-- 📧 gabriel.1985cr@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-gonzalez-montero)  
+[![GitHub](https://img.shields.io/badge/GitHub-gabo--devops--ai-black?logo=github)](https://github.com/gabo-devops-ai)  
+[![Email](https://img.shields.io/badge/Email-gabriel.gonzalez.montero%40gmail.com-red?logo=gmail&logoColor=white)](mailto:gabriel.1985cr@gmail.com)
 
 ---
 
@@ -85,15 +103,24 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🌍 Repo Insights
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/gabo-devops-ai/gabo-devops-portfolio?style=social" alt="GitHub stars" />
-<img src="https://img.shields.io/github/forks/gabo-devops-ai/gabo-devops-portfolio?style=social" alt="GitHub forks" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=gabo-devops-ai.gabo-devops-portfolio" alt="Visitors" />
+  <img src="https://img.shields.io/github/stars/gabo-devops-ai/gabo-devops-portfolio?style=social" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/forks/gabo-devops-ai/gabo-devops-portfolio?style=social" alt="GitHub forks"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabo-devops-ai.gabo-devops-portfolio" alt="Visitors"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Languages
 
-![Gabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabo-devops-ai&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabo-devops-ai&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabo-devops-ai&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabo-devops-ai&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
+
+---
+
+## 🤝 Contribute & Collaborate
+
+Contributions, suggestions, and improvements are always welcome!  
+If you’d like to collaborate or discuss DevOps, SRE, and AI-driven automation, feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/gabriel-gonzalez-montero).
 
