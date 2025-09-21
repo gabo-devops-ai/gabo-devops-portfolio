@@ -1,6 +1,6 @@
 # DevOps & SRE Portfolio – Gabriel Gonzalez Montero
-CI | License: MIT
-
+![CI](https://github.com/gabo-devops-ai/gabo-devops-portfolio/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 This repository collects examples of how I approach multi-cloud DevOps, SRE practices, and AI-driven automation. Each folder is based on real scenarios I’ve worked on or prepared for, simplified for demo purposes but documented the way I would explain them to a teammate.
 
 ## Repository Structure
