@@ -64,3 +64,32 @@ Clone the repo and explore the labs:
 git clone https://github.com/gabo-devops-ai/gabo-devops-portfolio.git
 cd gabo-devops-portfolio
 
+---
+
+## 📬 Contact / About Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-gonzalez-montero)  
+- 💻 [GitHub](https://github.com/gabo-devops-ai)  
+- 📧 gabriel.gonzalez.montero@gmail.com  
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+
+---
+
+## 🌍 Repo Insights
+
+![GitHub stars](https://img.shields.io/github/stars/gabo-devops-ai/gabo-devops-portfolio?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/gabo-devops-ai/gabo-devops-portfolio?style=social)  
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gabo-devops-ai.gabo-devops-portfolio)  
+
+---
+
+## 📊 GitHub Stats
+
+![Gabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabo-devops-ai&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabo-devops-ai&layout=compact&theme=tokyonight)  
+
