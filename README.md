@@ -64,6 +64,7 @@ Clone the repo and explore the labs:
 git clone https://github.com/gabo-devops-ai/gabo-devops-portfolio.git
 cd gabo-devops-portfolio
 
+cat <<'EOF' >> README.md
 
 ## 📬 Contact / About Me
 
