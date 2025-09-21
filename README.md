@@ -12,9 +12,25 @@
 [![Contributing][contrib-shield]][contrib-url]
 <!-- MARKDOWN LINKS & IMAGES -->
 
-![Last Commit](https://img.shields.io/github/last-commit/gabo-devops-ai/gabo-devops-portfolio)
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-![Open Issues](https://img.shields.io/github/issues/gabo-devops-ai/gabo-devops-portfolio)
+[forks-shield]: https://img.shields.io/github/forks/gabo-devops-ai/gabo-devops-portfolio?style=for-the-badge&logo=github&logoColor=white&color=orange
+[forks-url]: https://github.com/gabo-devops-ai/gabo-devops-portfolio/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/gabo-devops-ai/gabo-devops-portfolio.svg?style=for-the-badge&logo=github&logoColor=white&color=brightgreen
+[stars-url]: https://github.com/gabo-devops-ai/gabo-devops-portfolio/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/gabo-devops-ai/gabo-devops-portfolio?style=for-the-badge&logo=github&logoColor=white&color=blue
+[issues-url]: https://github.com/gabo-devops-ai/gabo-devops-portfolio/issues
+
+[commit-shield]: https://img.shields.io/github/last-commit/gabo-devops-ai/gabo-devops-portfolio?style=for-the-badge&logo=git&logoColor=white&color=ff69b4
+[commit-url]: https://github.com/gabo-devops-ai/gabo-devops-portfolio/commits/save
+
+[coc-shield]: https://img.shields.io/badge/Code%20of%20Conduct-Enforced-blueviolet?style=for-the-badge&logo=handshake&logoColor=white
+[coc-url]: https://github.com/gabo-devops-ai/gabo-devops-portfolio/blob/master/CODE_OF_CONDUCT.md
+
+[contrib-shield]: https://img.shields.io/badge/Contributions-Welcome-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white
+[contrib-url]: https://github.com/gabo-devops-ai/gabo-devops-portfolio/blob/master/CONTRIBUTING.md
+
+
 ![DevOps-Portfolio](https://divinosoft.ca/portfolio-devops.png)
 ---
 
