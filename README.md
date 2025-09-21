@@ -1,16 +1,21 @@
-# 🚀 DevOps & SRE Portfolio – Gabriel Gonzalez Montero
+# 🚀 Real-World DevOps & SRE Portfolio – Gabriel Gonzalez ♐
 
 [![CI](https://github.com/gabo-devops-ai/gabo-devops-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/gabo-devops-ai/gabo-devops-portfolio/actions)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
-
-## 🌟 Additional Badges
+[![Forks][forks-shield]][forks-url]
+[![Stars][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Last Commit][commit-shield]][commit-url]
+[![Code of Conduct][coc-shield]][coc-url]
+[![Contributing][contrib-shield]][contrib-url]
+<!-- MARKDOWN LINKS & IMAGES -->
 
 ![Last Commit](https://img.shields.io/github/last-commit/gabo-devops-ai/gabo-devops-portfolio)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![Open Issues](https://img.shields.io/github/issues/gabo-devops-ai/gabo-devops-portfolio)
-
+![DevOps-Portfolio](https://divinosoft.ca/portfolio-devops.png)
 ---
 
 ## 🎯 Purpose of Portfolio
