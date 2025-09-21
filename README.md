@@ -62,7 +62,7 @@ Clone the repo and explore the labs:
 
 ```bash
 git clone https://github.com/gabo-devops-ai/gabo-devops-portfolio.git
-cd gabo-devops-portfolio ```
+cd gabo-devops-portfolio
 
 
 ## 📬 Contact / About Me
