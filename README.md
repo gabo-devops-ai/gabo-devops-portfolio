@@ -90,7 +90,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📊 GitHub Stats
+## <p align="center">📊 GitHub Stats & Languages
 
 ![Gabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabo-devops-ai&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabo-devops-ai&layout=compact&theme=tokyonight)  
