@@ -34,8 +34,6 @@ Each folder is based on real scenarios I’ve worked on or prepared for, simplif
 
 ## 🛠️ Tech Stack
 
-Este portafolio demuestra experiencia en herramientas y plataformas clave de DevOps & SRE:
-
 | Cloud | IaC & Config | Containers & Orchestration | CI/CD & SCM | Monitoring & AI |
 |-------|--------------|-----------------------------|--------------|-----------------|
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
@@ -45,15 +43,16 @@ Este portafolio demuestra experiencia en herramientas y plataformas clave de Dev
 
 ---
 
-📖 Labs
-•infra-as-code-aws/ – Terraform S3 bucket module
-•ci-cd-pipeline-demo/ – Python app + GitHub Actions pipeline
-•k8s-observability-stack/ – Prometheus + Grafana on Kubernetes
-•aiops-log-analyzer/ – Log anomaly detection with optional AI
-•aws-bedrock-incident-summarizer/ – AWS Bedrock incident summarization
-•gcp-vertex-release-notes/ – GCP Vertex AI release notes generator
-•azure-openai-incident-helper/ – Azure OpenAI KQL + incident helper
-•oci-genai-cost-triage/ – OCI cost triage with GenAI
+## 📖 Labs
+
+- [infra-as-code-aws/](infra-as-code-aws/) – Terraform S3 bucket module  
+- [ci-cd-pipeline-demo/](ci-cd-pipeline-demo/) – Python app + GitHub Actions pipeline  
+- [k8s-observability-stack/](k8s-observability-stack/) – Prometheus + Grafana on Kubernetes  
+- [aiops-log-analyzer/](aiops-log-analyzer/) – Log anomaly detection with optional AI  
+- [aws-bedrock-incident-summarizer/](aws-bedrock-incident-summarizer/) – AWS Bedrock incident summarization  
+- [gcp-vertex-release-notes/](gcp-vertex-release-notes/) – GCP Vertex AI release notes generator  
+- [azure-openai-incident-helper/](azure-openai-incident-helper/) – Azure OpenAI KQL + incident helper  
+- [oci-genai-cost-triage/](oci-genai-cost-triage/) – OCI cost triage with GenAI  
 
 ---
 
