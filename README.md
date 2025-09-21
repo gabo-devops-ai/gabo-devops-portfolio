@@ -85,7 +85,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🌍 Repo Insights
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/gabo-devops-ai/gabo-devops-portfolio?style=social” alt="GitHub stars" />  
+  <img src="https://img.shields.io/github/stars/gabo-devops-ai/gabo-devops-portfolio?style=social" alt="GitHub stars" />
 <img src="https://img.shields.io/github/forks/gabo-devops-ai/gabo-devops-portfolio?style=social" alt="GitHub forks" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=gabo-devops-ai.gabo-devops-portfolio" alt="Visitors" />
 </p>
