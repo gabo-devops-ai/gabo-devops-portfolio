@@ -90,7 +90,7 @@ cd gabo-devops-portfolio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-gonzalez-montero)  
 [![GitHub](https://img.shields.io/badge/GitHub-gabo--devops--ai-black?logo=github)](https://github.com/gabo-devops-ai)  
-[![Email](https://img.shields.io/badge/Email-gabriel.gonzalez.montero%40gmail.com-red?logo=gmail&logoColor=white)](mailto:gabriel.1985cr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gabo.1985@gmail.com-red?logo=gmail&logoColor=white)](mailto:gabo.1985@gmail.com)
 
 ---
 
