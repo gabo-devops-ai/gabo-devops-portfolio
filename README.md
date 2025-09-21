@@ -72,7 +72,7 @@ cd gabo-devops-portfolio
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-gonzalez-montero)  
 - 💻 [GitHub](https://github.com/gabo-devops-ai)  
-- 📧 gabriel.gonzalez.montero@gmail.com  
+- 📧 gabriel.1985cr@gmail.com  
 
 ---
 
