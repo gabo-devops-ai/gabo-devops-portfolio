@@ -82,7 +82,7 @@ cd gabo-devops-portfolio
 
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gabo-devops-ai/gabo-devops-portfolio&type=Date)](https://star-history.com/#gabo-devops-ai/gabo-devops-portfolio&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=gabo-devops-ai/gabo-devops-portfolio&type=Date)](https://www.star-history.com/#gabo-devops-ai/gabo-devops-portfolio&Date)
 
 ---
 
