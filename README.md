@@ -84,13 +84,14 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🌍 Repo Insights
 
-![GitHub stars](https://img.shields.io/github/stars/gabo-devops-ai/gabo-devops-portfolio?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/gabo-devops-ai/gabo-devops-portfolio?style=social)  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gabo-devops-ai.gabo-devops-portfolio)  
-
+<p align="center">
+  <img src="https://img.shields.io/github/stars/gabo-devops-ai/gabo-devops-portfolio?style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/gabo-devops-ai/gabo-devops-portfolio?style=social" alt="GitHub forks" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabo-devops-ai.gabo-devops-portfolio" alt="Visitors" />
+</p>
 ---
 
-## <p align="center">📊 GitHub Stats & Languages
+## 📊 GitHub Stats & Languages
 
 ![Gabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabo-devops-ai&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabo-devops-ai&layout=compact&theme=tokyonight)  
