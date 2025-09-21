@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: |
+          pip install --upgrade pip
+          pip install -r ci-cd-pipeline-demo/app/requirements.txt
+      - name: Build image
+        run: docker build -t gabo-ci-demo:latest ci-cd-pipeline-demo
+      - name: Run container
+        run: |
+          docker run -d -p 8080:8080 --name demo gabo-ci-demo:latest
+          sleep 5
+          curl -sSf http://localhost:8080/ | grep "Gabo's CI/CD demo"

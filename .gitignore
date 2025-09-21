@@ -1,0 +1,16 @@
+# General
+.DS_Store
+*.log
+__pycache__/
+.venv/
+
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars
+
+# Python
+*.pyc
+.pytest_cache/
