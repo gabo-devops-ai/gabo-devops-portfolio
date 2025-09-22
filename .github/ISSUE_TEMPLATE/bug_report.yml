@@ -1,0 +1,21 @@
+name: Bug report
+description: Report a problem in a lab or documentation
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What happened and what did you expect?
+      placeholder: Clear steps to reproduce
+    validations:
+      required: true
+  - type: input
+    id: lab
+    attributes:
+      label: Lab/Folder
+      placeholder: e.g., infra-as-code-aws
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / Screenshots

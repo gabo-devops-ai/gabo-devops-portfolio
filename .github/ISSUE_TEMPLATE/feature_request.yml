@@ -1,0 +1,16 @@
+name: Feature request
+description: Suggest an improvement or new lab
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      placeholder: What and why?
+    validations:
+      required: true
+  - type: input
+    id: impact
+    attributes:
+      label: Impact
+      placeholder: e.g., improves cost triage / adds MLOps pattern
