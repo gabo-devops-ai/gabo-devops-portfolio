@@ -1,4 +1,48 @@
+<<<<<<< HEAD
 site_name: Gabo DevOps & AI Portfolio
 repo_url: https://github.com/gabo-devops-ai/gabo-devops-portfolio
 nav:
   - Home: index.md
+=======
+site_name: DevOps & IA Portfolio – Gabo
+site_url: https://gabo-devops-ai.github.io/gabo-devops-portfolio/
+repo_url: https://github.com/gabo-devops-ai/gabo-devops-portfolio
+repo_name: gabo-devops-ai/gabo-devops-portfolio
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.critic
+  - pymdownx.tabbed
+  - pymdownx.snippets
+  - pymdownx.progressbar
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Labs:
+      - Terraform/VPC: labs/terraform-vpc.md
+      - CI Matrix: labs/ci-matrix.md
+      - MLOps/K8s: labs/mlops-k8s.md
+  - About: about.md
+>>>>>>> ee85f63 (chore: quick save on 2025-09-21_21:23:08)
