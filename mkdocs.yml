@@ -1,0 +1,4 @@
+site_name: Gabo DevOps & AI Portfolio
+repo_url: https://github.com/gabo-devops-ai/gabo-devops-portfolio
+nav:
+  - Home: index.md
