@@ -1,0 +1,13 @@
+# CODEOWNERS
+# This file defines individuals or teams that are responsible for code in this repository.
+
+*   @gabo-devops-ai
+.github/* @gabo-devops-ai
+infra-as-code-aws/* @gabo-devops-ai
+ci-cd-pipeline-demo/* @gabo-devops-ai
+k8s-observability-stack/* @gabo-devops-ai
+aiops-log-analyzer/* @gabo-devops-ai
+aws-bedrock-incident-summarizer/* @gabo-devops-ai
+gcp-vertex-release-notes/* @gabo-devops-ai
+azure-openai-incident-helper/* @gabo-devops-ai
+oci-genai-cost-triage/* @gabo-devops-ai
