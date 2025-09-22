@@ -2,7 +2,7 @@
 
 **Objective**
 - Provision Vertex AI resources with Terraform.
-- Train and deploy a simple ML model (e.g., sklearn).
+- Train and deploy a simple ML model (e.g., scikit-learn).
 - Integrate CI/CD with GitHub Actions.
 
 ## Diagram
