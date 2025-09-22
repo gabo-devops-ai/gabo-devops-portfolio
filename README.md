@@ -31,7 +31,7 @@
 [contrib-url]: https://github.com/gabo-devops-ai/gabo-devops-portfolio/blob/main/CONTRIBUTING.md
 
 [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_a_Coffee-yellow)](https://buymeacoffee.com/gabo1985ca)  
-[![Docs](https://img.shields.io/badge/docs-MkDocs%20Material-informational)](https://gabo-devops-ai.github.io/gabo-devops-portfolio/)
+[![Docs](https://img.shields.io/badge/docs-MkDocs%20Material-informational)](https://github.com/gabo-devops-ai/gabo-devops-portfolio/blob/main/docs/index.md)
 
 
 ![DevOps-Portfolio](https://divinosoft.ca/portfolio-devops-ai.png)
