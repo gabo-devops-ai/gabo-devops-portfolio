@@ -11,3 +11,4 @@ flowchart LR
   code[GitHub Actions] --> tf[Terraform: Vertex AI + GCS]
   tf --> job[Vertex AI Training Job]
   job --> model[Deployed Model Endpoint]
+
