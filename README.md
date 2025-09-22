@@ -25,10 +25,10 @@
 [commit-url]: https://github.com/gabo-devops-ai/gabo-devops-portfolio/commits/save
 
 [coc-shield]: https://img.shields.io/badge/Code%20of%20Conduct-Enforced-blueviolet?style=for-the-badge&logo=handshake&logoColor=white
-[coc-url]: https://github.com/gabo-devops-ai/gabo-devops-portfolio/blob/master/CODE_OF_CONDUCT.md
+[coc-url]: https://github.com/gabo-devops-ai/gabo-devops-portfolio/blob/main/CODE_OF_CONDUCT.md
 
 [contrib-shield]: https://img.shields.io/badge/Contributions-Welcome-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white
-[contrib-url]: https://github.com/gabo-devops-ai/gabo-devops-portfolio/blob/master/CONTRIBUTING.md
+[contrib-url]: https://github.com/gabo-devops-ai/gabo-devops-portfolio/blob/main/CONTRIBUTING.md
 
 [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_a_Coffee-yellow)](https://buymeacoffee.com/gabo1985ca)  
 
