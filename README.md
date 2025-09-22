@@ -32,7 +32,7 @@
 
 [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_a_Coffee-yellow)](https://buymeacoffee.com/gabo1985ca)  
 
-
+![DevOps-Portfolio](https://divinosoft.ca/portfolio-devops.png)
 ---
 
 ## 🎯 Purpose of Portfolio
