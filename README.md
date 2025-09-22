@@ -10,6 +10,7 @@
 [![Last Commit][commit-shield]][commit-url]
 [![Code of Conduct][coc-shield]][coc-url]
 [![Contributing][contrib-shield]][contrib-url]
+[![Docs][docs-shield]][docs-url]
 [![Sponsor][sponsor-shield]][sponsor-url]
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -31,11 +32,11 @@
 [contrib-shield]: https://img.shields.io/badge/Contributions-Welcome-ff69b4?style=for-the-badge&logo=gitbook&logoColor=white
 [contrib-url]: https://github.com/gabo-devops-ai/gabo-devops-portfolio/blob/main/CONTRIBUTING.md
 
-[sponsor-shield]: https://img.shields.io/badge/☕-Buy_Me_a_Coffee-yellow?style=for-the-badge&logo=gitbook&logoColor=white
-[sponsor-url]: https://buymeacoffee.com/gabo1985ca
+[docs-shield]: https://img.shields.io/badge/Docs-MkDocs%20Material-informational?style=for-the-badge&logo=readthedocs&logoColor=white
+[docs-url]: https://gabo-devops-ai.github.io/gabo-devops-portfolio/
 
-[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_a_Coffee-yellow)](https://buymeacoffee.com/gabo1985ca)  
-[![Docs](https://img.shields.io/badge/docs-MkDocs%20Material-informational)](https://github.com/gabo-devops-ai/gabo-devops-portfolio/blob/main/docs/index.md)
+[sponsor-shield]: https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white
+[sponsor-url]: https://buymeacoffee.com/gabo1985ca
 
 
 ![DevOps-Portfolio](https://divinosoft.ca/portfolio-devops-ai.png)
